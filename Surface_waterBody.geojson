@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Surface_waterBody",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Waterbody": "waterbody", "Date": "1/11/2020" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 75.849867284027013, 14.946377402024591 ], [ 75.879101048478418, 14.945511928734911 ], [ 75.877370101899061, 14.912143125232815 ], [ 75.850059611424726, 14.914739545101854 ], [ 75.849867284027013, 14.946377402024591 ] ] ] ] } }
+]
+}
